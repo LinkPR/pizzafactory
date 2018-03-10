@@ -16,7 +16,7 @@
 
         // Set pizza information
 
-    // Pay for Pizza (public, payable)
+    // Pay for Pizza (public, payable) returns(string)
     
         // Do not allow contract owner to pay for pizza
         
@@ -26,7 +26,7 @@
         
         // Return a success message
     
-    // Make Pizza (public)
+    // Make Pizza (public) returns(string)
     
         // Check if totalAmountPaid = pizzaPrice
         
@@ -39,5 +39,5 @@
     
     // Challenge Round!
 
-    // Get amount pending (public)
-    // Get User Payment Amount
+    // Get amount pending (public) returns(unit)
+    // Get User Payment Amount (public) returns(uint)
