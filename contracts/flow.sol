@@ -39,5 +39,5 @@
     
     // Challenge Round!
 
-    // Get amount pending (public) returns(unit)
-    // Get User Payment Amount (public) returns(uint)
+    // Get amount pending (public, view) returns(unit)
+    // Get User Payment Amount (public, view) returns(uint)
