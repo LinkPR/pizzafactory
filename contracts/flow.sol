@@ -16,7 +16,7 @@
 
         // Set pizza information
 
-    // Pay for Pizza (public)
+    // Pay for Pizza (public, payable)
     
         // Do not allow contract owner to pay for pizza
         
