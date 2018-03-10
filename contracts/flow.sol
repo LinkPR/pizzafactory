@@ -2,13 +2,13 @@
 
 // Create contract
     
-    // Define owner
+    // Define owner (public)
     
-    // Pizza information
+    // Pizza information (public)
 
-    // Save Amount Paid
+    // Save Amount Paid (public)
     
-    // Users who will pay for the pizza
+    // Users who will pay for the pizza (public)
     
     // Initialize Contract
     
@@ -16,7 +16,7 @@
 
         // Set pizza information
 
-    // Pay for Pizza
+    // Pay for Pizza (public)
     
         // Do not allow contract owner to pay for pizza
         
@@ -26,7 +26,7 @@
         
         // Return a success message
     
-    // Make Pizza
+    // Make Pizza (public)
     
         // Check if totalAmountPaid = pizzaPrice
         
@@ -39,5 +39,5 @@
     
     // Challenge Round!
 
-    // Get amount pending 
+    // Get amount pending (public)
     // Get User Payment Amount
